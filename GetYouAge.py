@@ -1,0 +1,5 @@
+age = int(input("Please Enter you age in year: "))
+print(f"your age in months {age *12}")
+print(f"your age in weeks {age * 12 * 4}")
+print(f"your age in days {age * 365}")
+print(f"your age in huor {age * 365 * 24}")
